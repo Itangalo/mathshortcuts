@@ -1,5 +1,5 @@
 # mathshortcuts
-This short file allows using AutoHotkey for easy access to a number of common math symbols. The selection of symbols are somewhat adjusted to fit the needs of conventions used in Sweden. For details on how to install AutoHotkey, see autohotkey.com. Windows only.
+This short file (AutoHotkey.ahk) allows using AutoHotkey for easy access to a number of common math symbols. The selection of symbols are somewhat adjusted to fit the needs of conventions used in Sweden. For details on how to install AutoHotkey, see autohotkey.com. Windows only.
 
 ## List of symbols and shortcuts
 | symbol | description | shortcut(s) | comments |
