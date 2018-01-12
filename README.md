@@ -7,7 +7,7 @@ This short file (AutoHotkey.ahk) allows using AutoHotkey for easy access to a nu
 | − | proper minus sign | *right* shift + hyphen | Vertically aligned with the plus sign. **Not** the same as en dash or hyphen. |
 | · | dot multiplication | *right* alt + dot OR shift + numpad mult |
 | × | cross multiplication | *right* alt + ' OR ctr + shift + numpad mult |
-| ÷ | division | ctrl + shift + 7 |
+| ÷ | ugly division sign | ctrl + shift + 7 |
 | ≈ | approximately equal to | ctrl + shift + = |
 | ≠ | not equal to | ctrl + alt + shift + = |
 | ‰ | per mille | ctrl + shift + 5 |
