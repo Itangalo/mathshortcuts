@@ -1,4 +1,5 @@
 >+-::Send {U+2212} ; proper minus sign
+>!-::±
 <!-::– ; en dash
 +NumpadMult::
 >!.::·
